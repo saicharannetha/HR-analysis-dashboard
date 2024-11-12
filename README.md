@@ -4,7 +4,7 @@
 
 
 ## overview
-This project involves a comprehensive on HR analysis.The goal is to extract valuable insights and answer various business questions based on the dataset. 
+This repository contains the data for a project focused on analyzing HR. The project utilizes Excel for comprehensive insights and visualization
 ## About project
 
 The "HR Analytics Dashboard" project involved a comprehensive analysis of human resources data aimed at understanding employee dynamics and attrition within an organization. Through proficient data analysis in Microsoft Excel, several key insights and visualizations were derived:
