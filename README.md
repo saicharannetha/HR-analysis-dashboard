@@ -1,7 +1,6 @@
 
 # HR Analysis Dashboard
-![paris.png](https://github.com/saicharannetha/HR-analysis-dashboard/blob/main/HR-Analytics)
-
+![paris.png](https://github.com/saicharannetha/HR-analysis-dashboard/blob/main/dashboard.png)
 
 
 ## overview
